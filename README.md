@@ -1,3 +1,4 @@
+
 # AI-Based Student Performance Prediction and Decision Support System with Explainable AI
 
 ## 1. Overview
@@ -358,3 +359,7 @@ Not currently implemented:
 - Validation of alternative early-warning thresholds on new, independent data.
 - A mobile application.
 - NLP-based feedback.
+=======
+# student-prediction-and-explainable-AI
+AI-Based Student Performance Prediction and Decision Support System using Explainable AI (SHAP) for early identification of at-risk students.
+>>>>>>> 3450c38c33edbf02ea6f4cb4f9690cafe746ac79
